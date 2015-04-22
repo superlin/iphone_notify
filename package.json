@@ -1,0 +1,9 @@
+{
+	"name"        : "iphone_notify",
+  "version"     : "0.0.0",
+  "description" : "purchase iphone, remember to notify me.",
+  "dependencies": {
+  	"nodemailer": "~0.7.1",
+  	"request"   : "~2.45.0"
+  }
+}
